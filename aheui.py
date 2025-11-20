@@ -69,7 +69,6 @@ def run(code):
     while True:
         try:
             t = ord(code[cursor[0]][cursor[1]]) - 44032
-            print(code[cursor[0]][cursor[1]])
         except:
             pass
         else:

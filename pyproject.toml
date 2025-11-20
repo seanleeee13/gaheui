@@ -1,0 +1,7 @@
+[project]
+name = "gaheui"
+version = "0.1.0"
+description = "upgrade aheui"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
